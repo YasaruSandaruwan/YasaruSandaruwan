@@ -1,5 +1,5 @@
 # 💫 About Me:
-i there, I’m Yasaru Sandaruwan 🗿🤗<br>I’m a Designer and a Developer passionate about turning ideas into reality.<br><br>🗿#DesignAndDevelopment🎨➕</><br>🗿#UserExperience🤖🧠🇦🇮👾<br>🗿#CreativeSolutions🎨🌎🛠<br>🗿#Collaboration🤝🔗☣<br>🗿#ProblemSolving☢️🤔💭<br>🗿#InnovativeThinking👽👽👽<br><br>"Don’t judge a book by its cover." But when it comes to my work,<br>the cover and the content are equally compelling.<br>Let’s build something amazing together!
+Hi there, I’m Yasaru Sandaruwan 🗿🤗<br>I’m a Designer and a Developer passionate about turning ideas into reality.<br><br>🗿#DesignAndDevelopment🎨➕</><br>🗿#UserExperience🤖🧠🇦🇮👾<br>🗿#CreativeSolutions🎨🌎🛠<br>🗿#Collaboration🤝🔗☣<br>🗿#ProblemSolving☢️🤔💭<br>🗿#InnovativeThinking👽👽👽<br><br>"Don’t judge a book by its cover." But when it comes to my work,<br>the cover and the content are equally compelling.<br>Let’s build something amazing together!
 
 
 ## 🌐 Socials:
