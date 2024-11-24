@@ -39,14 +39,8 @@ Hi there, I’m Yasaru Sandaruwan 🗿🤗<br>I’m a Designer and a Developer p
 </div>
 <div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YasaruSandaruwan&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-<div align="center">
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 </div>
 <div align="center">
