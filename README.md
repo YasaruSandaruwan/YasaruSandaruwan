@@ -30,7 +30,9 @@ Hi there, I’m Yasaru Sandaruwan 🗿🤗<br>I’m a Designer and a Developer p
 <div align="center">
 
 # 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=YasaruSandaruwan&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YasaruSandaruwan&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YasaruSandaruwan&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
