@@ -64,17 +64,4 @@ Hi there, I’m Yasaru Sandaruwan 🗿🤗<br>I’m a Designer and a Developer p
 </div>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31aiol7pag4ddv6hwoglj2ujvi2y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiol7pag4ddv6hwoglj2ujvi2y&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
